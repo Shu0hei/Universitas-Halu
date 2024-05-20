@@ -1,0 +1,15 @@
+[
+    {
+        "namaMahasiswa": "Bara Tegar Sudjiwo",
+        "kelas": "17.4A.01",
+        "nim": "17210281",
+        "matakuliah": "Web Programming",
+        "dosen": "Ayu Aye, S.Kom., M.Cs.",
+        "kehadiran": "100",
+        "tugas": "100",
+        "uts": "95",
+        "uas": "90",
+        "totalNilai": 95.75,
+        "grade": "A"
+    }
+]

@@ -1,0 +1,7 @@
+  .a-img-span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 50px;
+  font-weight: 700;
+}
